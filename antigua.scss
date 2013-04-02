@@ -1,3 +1,5 @@
+$sepia: rgb(222, 120, 45);
+
 /* Remove Browser Style - http://meyerweb.com/eric/thoughts/2007/05/01/reset-reloaded/ */
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -24,8 +26,58 @@ body{
 	
 	width: 640px;
 	margin:0 auto;
-	padding:0 2em;
+	padding:0 1.5em;
+	
 }
+a, a:hover, a:visited{
+	font-weight:bold;
+	color:$sepia;
+	text-decoration:none;
+}
+/* Header */
+ul:first-of-type{
+	background-color:black;
+	color:white;
+	font-weight:bold;
+	font-size: 80%;
+	font-family: avenir, helvetica;
+	li{
+		display:inline;
+		margin-right:0.5em;
+	}
+}
+
+/* Title */
+h1{
+	font-family:Baskerville;
+	font-weight:bold;
+	font-size:250%;
+	text-align:center;
+	margin:0 0 0.09em 0;
+}
+/* FILE */
+h1 + p{
+	font-family: avenir, helvetica;
+	font-weight:bold;
+	color:white;
+	background-color: $sepia;
+	text-align: center;
+	margin:0;
+	width:100%;
+	max-width:100%;
+}
+
+/* Navigation */
+h1 ~ ul{
+	list-style:none;
+	text-align:center;
+}
+h2 ~ ul{
+	text-align: left;
+}
+
+
+
 
 /* Posts: h2 and paragraphs */
 p{
@@ -48,30 +100,10 @@ h2,h3,h4,h5,h6{
 	text-transform: uppercase;
 }
 
-/* Title */
-h1{
-	font-family:Gill Sans;
-	font-size:250%;
-	letter-spacing:-0.1em;
-	text-align:center;
-	margin:0 0 -0.05em 0;
-}
 
 
 
 
-
-/* Title */
-h1 {
-	
-}
-
-/* Navigation */
-
-ul{
-	list-style:none;
-	text-align:center;
-}
 
 /*Image*/
 img{
@@ -79,17 +111,7 @@ img{
 	width:100%;
 }
 
-/* FILE */
-h1 + p{
-	font-family: avenir, helvetica;
-	font-weight:bold;
-	color:#BADA55;
-	background-color: black;
-	text-align: center;
-	margin:0;
-	width:100%;
-	max-width:100%;
-}
+
 
 /*In this issue...*/
 h1 + p + p{
