@@ -1,11 +1,8 @@
-+ 3400 N Figueroa St 
-+ [facebook](https://www.facebook.com/antiguacoffeeroasters)
-
 Antigua Coffee House Presents,
 
 # Quetzaltenango #
 
-FILE.1
++ [♥ About](#bottom)
 
 In this Issue...
 
@@ -34,7 +31,7 @@ Dan Liu March 10
 
 **Tonx Coffee** is a Yancey-approved LA roaster that only ships to individual customers. 
 
-Like Yancey, the Tonx brothers believe in good beans and fresh roasts over gear. So for those who don't have enough access to Yancey's espresso pulls nor beans, sign up for Tonx! I recommend [Aeropress]() and the [Hario mini mill]() to make the coffee. Rest assured neither of them is 'gear' as they don't have glass parts.
+Like Yancey, the Tonx brothers believe in good beans and fresh roasts over gear. So for those who don't have enough access to Yancey's espresso pulls nor beans, sign up for Tonx! I recommend [Aeropress](#) and the [Hario mini mill](#) to make the coffee. Rest assured neither of them is 'gear' as they don't have glass parts.
 
 [The New Disruptors Interviews Tonx Coffee]:http://www.muleradio.net/newdisruptors/3/
 
@@ -46,7 +43,7 @@ Yancey Q Feb 20
 
 We are calling all artist interested in showcasing in the up and coming Cypress Village underground tunnel art walk to send us a brief Bio of their work and why they would love to exhibit. 
 
-Also we are now taking request for art curators, here's the catch...we will be paying out a small decent stipend to all curators selected in this process. Please send your bio to antiguacoffeehouse@yahoo.com. Either say (artist) or (curator) in the subject line.This is going to be the biggest thing to happen in the NELA since Teddy Roosevelt rode the street cars up Figueroa just about 100 years ago! The Espresso Revolution "Creates"...have a great day people's
+Also we are now taking request for art curators, here's the catch...we will be paying out a small decent stipend to all curators selected in this process. Please send your bio to yahoo email: antiguacoffeehouse. Either say (artist) or (curator) in the subject line.This is going to be the biggest thing to happen in the NELA since Teddy Roosevelt rode the street cars up Figueroa just about 100 years ago! The Espresso Revolution "Creates"...have a great day people's
 
 ## Link: [The Case for Drinking as Much Coffee as You Like][] ##
 
@@ -61,4 +58,5 @@ This is where coffee differs from wine. Coffee has the *real* stuff that improve
 [The Case for Drinking as Much Coffee as You Like]:http://www.theatlantic.com/health/archive/2012/11/the-case-for-drinking-as-much-coffee-as-you-like/265693/
 
 ## About the Coffee Shop ##
-*
+
+We

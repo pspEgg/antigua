@@ -30,15 +30,11 @@ a, a:hover, a:visited {
   text-decoration: none; }
 
 /* Header */
-ul:first-of-type {
-  background-color: black;
-  color: white;
-  font-weight: bold;
-  font-size: 80%;
-  font-family: avenir, helvetica; }
-  ul:first-of-type li {
-    display: inline;
-    margin-right: 0.5em; }
+p:first-of-type {
+  font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+  font-style: italic;
+  font-size: 70%;
+  margin: 0 0 1em 0; }
 
 /* Title */
 h1 {
@@ -48,24 +44,37 @@ h1 {
   text-align: center;
   margin: 0 0 0.09em 0; }
 
-/* FILE */
-h1 + p {
-  font-family: avenir, helvetica;
+/* Sepia Bar Items */
+ul:first-of-type {
+  font-family: gill sans;
   font-weight: bold;
+  font-size: 60%;
   color: white;
   background-color: #de782d;
-  text-align: center;
-  margin: 0;
   width: 100%;
-  max-width: 100%; }
-
-/* Navigation */
-h1 ~ ul {
+  max-width: 100%;
   list-style: none;
   text-align: center; }
+  ul:first-of-type li {
+    display: inline;
+    margin: 0 0.3em; }
+    ul:first-of-type li a, ul:first-of-type li a:hover, ul:first-of-type li a:visited {
+      color: white; }
 
-h2 ~ ul {
-  text-align: left; }
+/* In this issue... */
+h1 + ul + p {
+  font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+  font-style: italic;
+  font-size: 70%;
+  margin: 0 0 1em 0; }
+
+/* intro text */
+h1 + ul + p + ul {
+  list-style: none; }
+  h1 + ul + p + ul li {
+    font-size: 80%;
+    line-height: 1.5em;
+    text-align: center; }
 
 /* Posts: h2 and paragraphs */
 p {
