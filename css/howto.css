@@ -109,6 +109,8 @@ blockquote {
   margin-left: 0.4em;
   padding-left: 0.5em;
   border-left: 8px solid #de782d; }
+  blockquote p {
+    font-size: 1em; }
 
 /*Image*/
 img {
@@ -133,4 +135,7 @@ body {
 .blog {
   width: 640px;
   position: absolute;
-  left: 445px; }
+  left: 455px; }
+  .blog blockquote p {
+    font-size: 1em;
+    margin-top: 0.5em; }

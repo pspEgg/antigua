@@ -20,7 +20,7 @@ Dan Liu March 19
 
 ![](Michelle@2x.jpg)
 
-**Michelle** is the magician behind the refreshingly delicious gluten-free, diary-free, soy-free, non-genetically-modified baked sweets, if that's your thing.
+**Michelle** is the magician behind the refreshingly delicious gluten-free, diary-free, soy-free, non-genetically-modified bakies, if that's your thing.
 
 But the real deal here is the artistry in sourcing ingredients from scratch and bringing out the best of nature through merely applying heat, think local carrots and pupkins, organic dark choc and spices. That's how Yancey approaches coffee, start with the freshest and strongest beans and pull the shots with veteran expertise.
 
