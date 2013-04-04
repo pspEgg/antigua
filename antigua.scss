@@ -37,7 +37,7 @@ a, a:hover, a:visited{
 	text-decoration:none;
 }
 /* Header */
-body > p:first-of-type{
+* > p:first-of-type{
 	@include georgia;
 	font-style:italic;
 	font-size:50%;	

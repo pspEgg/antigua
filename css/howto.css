@@ -17,114 +17,115 @@ table, caption, tbody, tfoot, thead, tr, th, td {
   vertical-align: baseline; }
 
 body {
-  font-size: 200%; }
+  font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+  font-size: 28px;
+  line-height: 1.45em;
+  width: 640px;
+  margin: 0 auto;
+  padding: 0 1.5em; }
 
-.body {
-  /* Remove Browser Style - http://meyerweb.com/eric/thoughts/2007/05/01/reset-reloaded/ */
-  /* Header */
-  /* Title */
-  /* Sepia Bar Items */
-  /* In this issue... */
-  /* intro text */
-  /* Artcles: h2 and paragraphs */
-  /* Article Info */
-  /* lead paragraph */
-  /*blockquote*/
-  /*Image*/
-  /*In this issue...*/
-  /* Date */ }
-  .body html, .body body, .body div, .body span, .body applet, .body object, .body iframe,
-  .body h1, .body h2, .body h3, .body h4, .body h5, .body h6, .body p, .body blockquote, .body pre,
-  .body a, .body abbr, .body acronym, .body address, .body big, .body cite, .body code,
-  .body del, .body dfn, .body em, .body font, .body img, .body ins, .body kbd, .body q, .body s, .body samp,
-  .body small, .body strike, .body strong, .body sub, .body sup, .body tt, .body var,
-  .body dl, .body dt, .body dd, .body ol, .body ul, .body li,
-  .body fieldset, .body form, .body label, .body legend,
-  .body table, .body caption, .body tbody, .body tfoot, .body thead, .body tr, .body th, .body td {
-    margin: 0;
-    padding: 0;
-    border: 0;
-    font-weight: inherit;
-    font-style: inherit;
-    font-size: 100%;
-    font-family: inherit;
-    vertical-align: baseline; }
-  .body body {
-    font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
-    font-size: 28px;
-    line-height: 1.45em;
-    width: 640px;
-    margin: 0 auto;
-    padding: 0 1.5em; }
-  .body a, .body a:hover, .body a:visited {
-    font-weight: bold;
-    color: #de782d;
-    text-decoration: none; }
-  .body body > p:first-of-type {
-    font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
-    font-style: italic;
-    font-size: 50%;
-    margin: -0.6em 0 1em 0; }
-  .body h1 {
-    font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
-    font-family: Baskerville;
-    font-weight: bold;
-    font-size: 250%;
-    text-align: center;
-    margin: 0 0 0.09em 0; }
-  .body ul:first-of-type {
-    font-family: gill sans;
-    font-weight: bold;
-    font-size: 60%;
-    color: white;
-    background-color: #de782d;
-    width: 100%;
-    max-width: 100%;
-    list-style: none;
+a, a:hover, a:visited {
+  font-weight: bold;
+  color: #de782d;
+  text-decoration: none; }
+
+/* Header */
+* > p:first-of-type {
+  font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+  font-style: italic;
+  font-size: 50%;
+  margin: -0.6em 0 1em 0; }
+
+/* Title */
+h1 {
+  font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+  font-family: Baskerville;
+  font-weight: bold;
+  font-size: 250%;
+  text-align: center;
+  margin: 0 0 0.09em 0; }
+
+/* Sepia Bar Items */
+ul:first-of-type {
+  font-family: gill sans;
+  font-weight: bold;
+  font-size: 60%;
+  color: white;
+  background-color: #de782d;
+  width: 100%;
+  max-width: 100%;
+  list-style: none;
+  text-align: center; }
+  ul:first-of-type li {
+    display: inline;
+    margin: 0 0.3em; }
+    ul:first-of-type li a, ul:first-of-type li a:hover, ul:first-of-type li a:visited {
+      color: white; }
+
+/* In this issue... */
+h1 + ul + p {
+  font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+  font-style: italic;
+  font-size: 50%;
+  margin: 0 0 1em 0; }
+
+/* intro text */
+h1 + ul + p + ul {
+  list-style: none; }
+  h1 + ul + p + ul li {
+    font-size: 80%;
+    line-height: 1.5em;
     text-align: center; }
-    .body ul:first-of-type li {
-      display: inline;
-      margin: 0 0.3em; }
-      .body ul:first-of-type li a, .body ul:first-of-type li a:hover, .body ul:first-of-type li a:visited {
-        color: white; }
-  .body h1 + ul + p {
-    font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
-    font-style: italic;
-    font-size: 50%;
-    margin: 0 0 1em 0; }
-  .body h1 + ul + p + ul {
-    list-style: none; }
-    .body h1 + ul + p + ul li {
-      font-size: 80%;
-      line-height: 1.5em;
-      text-align: center; }
-  .body h2, .body h3, .body h4, .body h5, .body h6 {
-    font-size: 200%;
-    font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-weight: bold;
-    letter-spacing: -0.1em;
-    line-height: 0.8em;
-    margin-top: 1.5em;
+
+/* Artcles: h2 and paragraphs */
+h2, h3, h4, h5, h6 {
+  font-size: 200%;
+  font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  letter-spacing: -0.1em;
+  line-height: 0.8em;
+  margin-top: 1.5em;
+  text-transform: uppercase; }
+
+p {
+  margin: 0 0 1.2em 0; }
+  p strong {
     text-transform: uppercase; }
-  .body p {
-    margin: 0 0 1.2em 0; }
-    .body p strong {
-      text-transform: uppercase; }
-  .body h2 + p {
-    font-size: 0.7em;
-    margin: 0.3em 0 1.4em 0;
-    text-align: left;
-    color: #c8c8c8; }
-  .body h2 + p + * {
-    font-size: 1.6em;
-    line-height: 1.1em; }
-  .body blockquote {
-    margin-left: 0.4em;
-    padding-left: 0.5em;
-    border-left: 8px solid #de782d; }
-  .body img {
-    max-width: 640px;
-    width: 100%;
-    border-bottom: 0.5em solid #de782d; }
-  .body h1 + p + p {
-    font-family: gill sans; }
+
+/* Article Info */
+h2 + p {
+  font-size: 0.7em;
+  margin: 0.3em 0 1.4em 0;
+  text-align: left;
+  color: #c8c8c8; }
+
+/* lead paragraph */
+h2 + p + * {
+  font-size: 1.6em;
+  line-height: 1.1em; }
+
+/*blockquote*/
+blockquote {
+  margin-left: 0.4em;
+  padding-left: 0.5em;
+  border-left: 8px solid #de782d; }
+
+/*Image*/
+img {
+  max-width: 640px;
+  width: 100%;
+  border-bottom: 0.5em solid #de782d; }
+
+/*In this issue...*/
+h1 + p + p {
+  font-family: gill sans; }
+
+/* Date */
+body {
+  width: 980px; }
+
+.howto {
+  width: 320px; }
+
+.blog {
+  width: 640px; }
