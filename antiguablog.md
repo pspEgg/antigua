@@ -3,15 +3,16 @@ Antigua Coffee House Presents,
 # Quetzaltenango #
 
 + [Subscribe](#)
-+ [Beans](#)
++ [Vote](#)
 + [About](#bottom)
 
 In this pilot issue...
 
-+ We are now **gluten free**
-+ Tonx Coffee and the coffee hipsters
-+ Subscribe to our email for a weekly report
-+ Vote for our underground project!
++ [Vote](#) for us on on LA2050
++ We are now [**gluten free**](#)
++ [Tonx Coffee](#) is the new disruptors
++ NELA Underground Art Walk now [accepting curators](#)
++ The [case](#) for drinking coffee
 
 ## La La Bakies Is Baking In The House ##
 
@@ -21,9 +22,9 @@ Dan Liu March 19
 
 **Michelle** is the magician behind the refreshingly delicious gluten-free, diary-free, soy-free, non-genetically-modified baked sweets, if that's your thing.
 
-But the real deal here is the artistry in sourcing ingredients from scratch and bringing out the best of nature through merely applying heat, think local carrots and pupkins, organic dark choc and spices. That's how Yancey approches coffee, start with the freshest and strongest beans and pull the shots with veteran expertise.
+But the real deal here is the artistry in sourcing ingredients from scratch and bringing out the best of nature through merely applying heat, think local carrots and pupkins, organic dark choc and spices. That's how Yancey approaches coffee, start with the freshest and strongest beans and pull the shots with veteran expertise.
 
-Her [kickstarter][] campaign for achiving allergy-free bakies just concluded last decimber
+Her [kickstarter][] campaign for achiving allergy-free bakies just concluded last december
 
 [kickstarter]:http://www.kickstarter.com/projects/2074574548/la-la-bakies-a-vegan-and-gluten-free-alternative-b
 
@@ -59,4 +60,6 @@ This is where coffee differs from wine. Coffee has the *real* stuff that improve
 
 ## About the Coffee Shop ##
 
-We
+Locations, hours and contact
+
+We sit at 3400 N Figuroa St. in Cypress Park, open from 7am till 5pm weekdays, 3pm weekends.
