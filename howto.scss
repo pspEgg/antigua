@@ -1,14 +1,19 @@
 @import "antigua.scss";
 body{
 	width:980px;
+	position:static;
 }
 
 .howto{
 	width:320px;
-	
+	position:absolute;
+	left:40px;
 }
 .blog{
 	width:640px;
+	position:absolute;
+	left:400px;
+	
 }
 
 

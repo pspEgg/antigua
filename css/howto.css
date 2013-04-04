@@ -122,10 +122,15 @@ h1 + p + p {
 
 /* Date */
 body {
-  width: 980px; }
+  width: 980px;
+  position: static; }
 
 .howto {
-  width: 320px; }
+  width: 320px;
+  position: absolute;
+  left: 40px; }
 
 .blog {
-  width: 640px; }
+  width: 640px;
+  position: absolute;
+  left: 400px; }
