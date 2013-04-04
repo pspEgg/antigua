@@ -30,14 +30,15 @@ a, a:hover, a:visited {
   text-decoration: none; }
 
 /* Header */
-p:first-of-type {
+body > p:first-of-type {
   font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
   font-style: italic;
-  font-size: 70%;
-  margin: 0 0 1em 0; }
+  font-size: 50%;
+  margin: -0.6em 0 1em 0; }
 
 /* Title */
 h1 {
+  font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
   font-family: Baskerville;
   font-weight: bold;
   font-size: 250%;
@@ -65,7 +66,7 @@ ul:first-of-type {
 h1 + ul + p {
   font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
   font-style: italic;
-  font-size: 70%;
+  font-size: 50%;
   margin: 0 0 1em 0; }
 
 /* intro text */
@@ -76,28 +77,44 @@ h1 + ul + p + ul {
     line-height: 1.5em;
     text-align: center; }
 
-/* Posts: h2 and paragraphs */
-p {
-  margin: 1.2em 0; }
-  p strong {
-    text-transform: uppercase; }
-
-/* lead paragraph */
-h2 + p + p {
-  font-size: 120%; }
-
+/* Artcles: h2 and paragraphs */
 h2, h3, h4, h5, h6 {
   font-size: 200%;
   font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: bold;
   letter-spacing: -0.1em;
+  line-height: 0.8em;
   margin-top: 1.5em;
   text-transform: uppercase; }
+
+p {
+  margin: 0 0 1.2em 0; }
+  p strong {
+    text-transform: uppercase; }
+
+/* Article Info */
+h2 + p {
+  font-size: 0.7em;
+  margin: 0.3em 0 1.4em 0;
+  text-align: left;
+  color: #c8c8c8; }
+
+/* lead paragraph */
+h2 + p + * {
+  font-size: 1.6em;
+  line-height: 1.1em; }
+
+/*blockquote*/
+blockquote {
+  margin-left: 0.4em;
+  padding-left: 0.5em;
+  border-left: 8px solid #de782d; }
 
 /*Image*/
 img {
   max-width: 640px;
-  width: 100%; }
+  width: 100%;
+  border-bottom: 0.5em solid #de782d; }
 
 /*In this issue...*/
 h1 + p + p {

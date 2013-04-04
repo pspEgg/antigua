@@ -2,9 +2,11 @@ Antigua Coffee House Presents,
 
 # Quetzaltenango #
 
-+ [♥ About](#bottom)
++ [Subscribe](#)
++ [Beans](#)
++ [About](#bottom)
 
-In this Issue...
+In this pilot issue...
 
 + We are now **gluten free**
 + Tonx Coffee and the coffee hipsters
@@ -50,8 +52,6 @@ Also we are now taking request for art curators, here's the catch...we will be p
 Dan Liu Jan 09
 
 > "What I tell patients is, if you like coffee, go ahead and drink as much as you want and can," 
-
-> says Dr. Peter Martin, director of the Institute for Coffee Studies at Vanderbilt University. He's even developed a metric for monitoring your dosage: If you are having trouble sleeping, cut back on your last cup of the day. From there, he says, "If you drink that much, it's not going to do you any harm, and it might actually help you. A lot."
 
 This is where coffee differs from wine. Coffee has the *real* stuff that improves your day.
 
