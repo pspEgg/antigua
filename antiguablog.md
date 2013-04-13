@@ -2,29 +2,31 @@
 
 # Quetzaltenango #
 
-+ [Subscribe](#)
-+ [Vote](#)
-+ [About](#bottom)
++ [Newsletter](#)
++ [Merch](#)
++ [Address](#bottom)
++ [Issues](#)
 
-`In this pilot issue...`
+`The Little Cypress newsletter`
 
-+ What we learned from voting.
-+ We are now [**gluten free**](#)
-+ [Tonx Coffee](#) is the new disruptors
-+ NELA Underground Art Walk now [accepting curators](#)
-+ The [case](#) for drinking coffee
+This is Issue #1!  
+Last week you wonderful people took the time  
+and wrote us the sweetest comments ever.  
+*They meant a lot*.
+
+Time for us to write.  
+This weekly column is for you people.  
+Let's kick it off with our new artist-in-the-house.
 
 ## La La Bakies Is Baking In The House ##
 
 ![](Michelle@2x.jpg)
 
-**Michelle** is the magician behind the refreshingly delicious gluten-free, diary-free, soy-free, non-genetically-modified bakies, if that's your thing.
+**Michelle** *is* the magician behind the refreshingly delicious gluten-free, diary-free, soy-free, non-genetically-modified bakies, if that's your thing.
 
 But the real deal here is the artistry in sourcing ingredients from scratch and bringing out the best of nature through merely applying heat, think local carrots and pupkins, organic dark choc and spices. That's how Yancey approaches coffee, start with the freshest and strongest beans and pull the shots with veteran expertise.
 
 Her [kickstarter][] campaign for achiving allergy-free bakies just concluded last december
-
-
 
 [kickstarter]:http://www.kickstarter.com/projects/2074574548/la-la-bakies-a-vegan-and-gluten-free-alternative-b
 
@@ -59,7 +61,5 @@ This is where coffee differs from wine. Coffee has the *real* stuff that improve
 [The Case for Drinking as Much Coffee as You Like]:http://www.theatlantic.com/health/archive/2012/11/the-case-for-drinking-as-much-coffee-as-you-like/265693/
 
 ## About the Coffee Shop ##
-
-Locations, hours and contact
 
 We sit at 3400 N Figuroa St. in Cypress Park, open from 7am till 5pm weekdays, 3pm weekends.
