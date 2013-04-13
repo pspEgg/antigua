@@ -74,6 +74,11 @@ h1 + ul + p + p, h1 + ul + p + p + p{
 
 
 
+/* lead paragraph */
+h2 + *, h2 + pre + p{
+	font-size:1.6em;
+	line-height:1.1em;
+}
 
 /* Artcles: h2 and paragraphs */
 h2,h3,h4,h5,h6{
@@ -87,7 +92,7 @@ h2,h3,h4,h5,h6{
 	text-transform: uppercase;
 }
 
-p{
+p, figure{
 	margin:0 0 1.2em 0;
 	strong{
 		text-transform: uppercase;
@@ -98,11 +103,7 @@ p{
 }
 
 
-/* lead paragraph */
-h2 + *, h2 + pre + p{
-	font-size:1.6em;
-	line-height:1.1em;
-}
+
 
 /*blockquote*/
 blockquote{
