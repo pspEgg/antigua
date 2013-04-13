@@ -1,4 +1,4 @@
-Antigua Coffee House Presents,
+`Antigua Coffee House Presents,`
 
 # Quetzaltenango #
 
@@ -6,7 +6,7 @@ Antigua Coffee House Presents,
 + [Vote](#)
 + [About](#bottom)
 
-In this pilot issue...
+`In this pilot issue...`
 
 + What we learned from voting.
 + We are now [**gluten free**](#)
@@ -16,8 +16,6 @@ In this pilot issue...
 
 ## La La Bakies Is Baking In The House ##
 
-Dan Liu March 19
-
 ![](Michelle@2x.jpg)
 
 **Michelle** is the magician behind the refreshingly delicious gluten-free, diary-free, soy-free, non-genetically-modified bakies, if that's your thing.
@@ -26,11 +24,13 @@ But the real deal here is the artistry in sourcing ingredients from scratch and 
 
 Her [kickstarter][] campaign for achiving allergy-free bakies just concluded last december
 
+
+
 [kickstarter]:http://www.kickstarter.com/projects/2074574548/la-la-bakies-a-vegan-and-gluten-free-alternative-b
 
 ## Link: [The New Disruptors Interviews Tonx Coffee][] ##
 
-Dan Liu March 10
+
 
 **Tonx Coffee** is a Yancey-approved LA roaster that only ships to individual customers. 
 
@@ -40,7 +40,7 @@ Like Yancey, the Tonx brothers believe in good beans and fresh roasts over gear.
 
 ## The Secretly Underground Project ##
 
-Yancey Q Feb 20
+
 
 **Friends**, you have been and are the greatest thing to exist east of the LA River aka NELA. 
 
@@ -50,7 +50,7 @@ Also we are now taking request for art curators, here's the catch...we will be p
 
 ## Link: [The Case for Drinking as Much Coffee as You Like][] ##
 
-Dan Liu Jan 09
+
 
 > "What I tell patients is, if you like coffee, go ahead and drink as much as you want and can," 
 

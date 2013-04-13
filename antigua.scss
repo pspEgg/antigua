@@ -19,12 +19,14 @@ a, a:hover, a:visited{
 	color:$sepia;
 	text-decoration:none;
 }
-/* Header */
-* > p:first-of-type{
+/* small type */
+code {
 	@include georgia;
 	font-style:italic;
-	font-size:50%;	
-	margin:-0.6em 0 1em 0;
+	font-size:0.7em;		
+	margin:0.3em 0 1.4em 0;
+	text-align:left;
+	color:rgb(150,150,150);
 }
 
 /* Title */
@@ -56,13 +58,7 @@ ul:first-of-type{
 		}
 	}
 }
-/* In this issue... */
-h1 + ul + p{
-	@include georgia;
-	font-style: italic;
-	font-size:50%;	
-	margin:0 0 1em 0;
-}
+
 /* intro text */
 h1 + ul + p + ul{
 	list-style:none;
@@ -84,6 +80,7 @@ h2,h3,h4,h5,h6{
 	letter-spacing:-0.1em;
 	line-height:0.8em;
 	margin-top:1.5em;
+	margin-bottom:0.8em;
 	text-transform: uppercase;
 }
 
@@ -93,16 +90,10 @@ p{
 		text-transform: uppercase;
 	}
 }
-/* Article Info */
-h2 + p{
-	font-size:0.7em;
-	margin:0.3em 0 1.4em 0;
-	text-align:left;
-	color:rgb(200,200,200);
-}
+
 
 /* lead paragraph */
-h2 + p + *{
+h2 + *{
 	font-size:1.6em;
 	line-height:1.1em;
 }
