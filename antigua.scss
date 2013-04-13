@@ -14,10 +14,13 @@ body{
 	padding:0 1.5em;
 	
 }
-a, a:hover, a:visited{
+a, a:visited{
 	font-weight:bold;
 	color:$sepia;
 	text-decoration:none;
+}
+a:hover{
+	color:#bada55;
 }
 /* small type */
 code {
@@ -53,8 +56,11 @@ ul:first-of-type{
 	li{
 		display:inline;
 		margin:0 0.3em;
-		a, a:hover, a:visited{
+		a, a:visited{
 			color:white;
+		}
+		a:hover{
+			color:#bada55;
 		}
 	}
 }
@@ -88,6 +94,9 @@ p{
 	margin:0 0 1.2em 0;
 	strong{
 		text-transform: uppercase;
+	}
+	em{
+		font-style:italic;
 	}
 }
 
