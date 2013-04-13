@@ -8,7 +8,7 @@ Antigua Coffee House Presents,
 
 In this pilot issue...
 
-+ [Vote](#) for us on on LA2050
++ What we learned from voting.
 + We are now [**gluten free**](#)
 + [Tonx Coffee](#) is the new disruptors
 + NELA Underground Art Walk now [accepting curators](#)
