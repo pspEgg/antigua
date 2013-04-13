@@ -11,7 +11,7 @@ body{
 	
 	width: 640px;
 	margin:0 auto;
-	padding:0 1.5em;
+	padding:0 1.5em 15em 1.5em;
 	
 }
 a, a:visited{
@@ -65,14 +65,11 @@ ul:first-of-type{
 	}
 }
 
-/* intro text */
-h1 + ul + p + ul{
-	list-style:none;
-	li{
+/* intro text 2 paragraphs max */
+h1 + ul + p + p, h1 + ul + p + p + p{
 		font-size:80%;
 		line-height:1.5em;
 		text-align:center;
-	}
 }
 
 
@@ -102,7 +99,7 @@ p{
 
 
 /* lead paragraph */
-h2 + *{
+h2 + *, h2 + pre + p{
 	font-size:1.6em;
 	line-height:1.1em;
 }
@@ -128,6 +125,7 @@ img{
 	width:100%;
 	border-bottom: 0.5em solid $sepia;
 }
+
 
 
 
