@@ -2,10 +2,10 @@
 
 # Quetzaltenango #
 
-+ [Newsletter](#)
-+ [Merch](#)
++ [Events](#)
++ [Beans](#)
 + [Address](#bottom)
-+ [Issues](#)
++ [Tunnel](#)
 
 `The little Cypress blog`
 
@@ -30,17 +30,27 @@ Following the success of her [Kickstarter][] campagin to achive allergy-free bak
 
 ##Link: [Gangster Gardener #TEDTalk][finley]
 
-**Community** is the grit, the sweat and the giving. It's something you can hold in your hands.
+**Community** is in the grit, the sweat and the giving. It's something solid you can touch.
 
 [finley]: http://www.ted.com/talks/ron_finley_a_guerilla_gardener_in_south_central_la.html
 
-## Our Locked Tunnels ##
+## Our Tunnels ##
 
-**Friends**, you have been and are the greatest thing to exist east of the LA River aka NELA. 
+[*patrick.ferry.754:*](#)
 
-We are calling all artist interested in showcasing in the up and coming Cypress Village underground tunnel art walk to send us a brief Bio of their work and why they would love to exhibit. 
+> I love to see the energy of multiple projects feeding each other: the tunnels, arts, biking, river conservation, pedestrianism, rethinking transportation, and, mostly, getting people in a community to know each other better, to hang out, to grow together and serve one another.  
 
-Also we are now taking request for art curators, here's the catch...we will be paying out a small decent stipend to all curators selected in this process. Please send your bio to yahoo email: antiguacoffeehouse. Either say (artist) or (curator) in the subject line.This is going to be the biggest thing to happen in the NELA since Teddy Roosevelt rode the street cars up Figueroa just about 100 years ago! The Espresso Revolution "Creates"...have a great day people's
+For those not following the facebook page, last week we got the tunnel project into [this contest][2050], and *boy* was I humbled by the comments. You all are so smart that I just keep nodding in agreement. Also,
+
+### David Fonseca [on the orgins of Antigua Coffee Hub][david] 
+
+I've started a page dedicated to the tunnels project [here](#) and collected some of the best comments [here](#). And you can always support us by subscribing to our [beans](#). 
+
+Now, a few more fun stuff.
+
+[david]: http://highlandpark-ca.patch.com/articles/antigua-owner-sees-shop-as-cultural-hub#photo-13897880
+
+[2050]: http://myla2050.maker.good.is/projects/tunnel-art-walk
 
 ## Link: [The New Disruptors Interviews Tonx Coffee][] ##
 
@@ -56,6 +66,16 @@ I told you so.
 
 [The Case for Drinking as Much Coffee as You Like]:http://www.theatlantic.com/health/archive/2012/11/the-case-for-drinking-as-much-coffee-as-you-like/265693/
 
+## Guest Post: [Dropbox dot Markdown](#)
+
+or how to stop worrying about system failures.
+
+We've all tried to write stuff on the computer and even somewhere online, and at some point you get burnt by the experiences of losing what you write or some blogging site going out-of-style.
+
+We all learned to not treat what we write on computers and the internet seriously.
+
+[continue reading...](#)
+
 ## About the Coffee Shop ##
 
-We sit at 3400 N Figuroa St. in Cypress Park, open from 7am till 5pm weekdays, 3pm weekends.
+We sit at 3400 N Figuroa St. in Cypress Park, open 7-5(M-F) and 7-3(S-S).
