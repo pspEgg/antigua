@@ -46,7 +46,7 @@ h1{
 ul:first-of-type{
 	font-family: gill sans;
 	font-weight:bold;
-	font-size:60%;
+	font-size:50%;
 	color:white;
 	background-color: $sepia;
 	width:100%;
@@ -54,6 +54,7 @@ ul:first-of-type{
 	list-style:none;
 	text-align:center;
 	li{
+		text-transform: uppercase;
 		display:inline;
 		margin:0 0.3em;
 		a, a:visited{
@@ -75,7 +76,7 @@ h1 + ul + p + p, h1 + ul + p + p + p{
 
 
 /* lead paragraph */
-h2 + *, h2 + pre + p{
+h2 + *, h2 + pre + p, h2 + p + blockquote{
 	font-size:1.6em;
 	line-height:1.1em;
 }
@@ -90,6 +91,10 @@ h2,h3,h4,h5,h6{
 	margin-top:1.5em;
 	margin-bottom:0.8em;
 	text-transform: uppercase;
+}
+
+h3,h4,h5,h6{
+	margin-top:.9em;
 }
 
 p, figure{
