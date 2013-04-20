@@ -1,11 +1,13 @@
 `Antigua Coffee House Presents,`
 
-# Quetzaltenango #
+# [Quetzaltenango][home] #
 
-+ [Events](#)
-+ [Beans](#)
-+ [Address](#bottom)
-+ [Tunnel](#)
++ [Events](http://pspegg.co/antigua/events)
++ [Beans](http://pspegg.co/antigua/beans)
++ [Tunnel](http://pspegg.co/antigua/tunnel)
++ [Address](#address)
+
+[home]: http://pspegg.co/antigua/index.html
 
 `The little Cypress blog`
 
@@ -22,13 +24,16 @@ Let's kick it off with some exciting news...
 
 ![](Michelle@2x.jpg)
 
-**Michelle** is the magician behind the deliciously gluten-free, diary-free, soy-free, non-genetically-modified **LA LA Bakies**.
+**Michelle** is the magician behind the deliciously gluten-free, diary-free, soy-free, non-genetically-modified [**LA LA Bakies**][order].
 
-Following the success of her [Kickstarter][] campagin to achive allergy-free baking, she bought an oven and set up head quarters in the shop.
+Following the success of her [Kickstarter campagin][kickstarter] to achive allergy-free baking, she bought an oven and set up head quarters in the shop.
 
+[order]: http://lalabakies.com/collections/all
 [kickstarter]:http://www.kickstarter.com/projects/2074574548/la-la-bakies-a-vegan-and-gluten-free-alternative-b
 
-##Link: [Gangster Gardener #TEDTalk][finley]
+## TEDTALK: [Gangster Gardener][finley]
+
+> I live in South Central. This is South Central: liquor stores, fast food, vacant lots.
 
 **Community** is in the grit, the sweat and the giving. It's something solid you can touch.
 
@@ -42,7 +47,7 @@ Following the success of her [Kickstarter][] campagin to achive allergy-free bak
 
 For those not following the facebook page, last week we got the tunnel project into [this contest][2050], and *boy* was I humbled by the comments. You all are so smart that I just keep nodding in agreement. Also,
 
-### David Fonseca [on the orgins of Antigua Coffee Hub][david] 
+### David Fonseca: [the orgins of Antigua Coffee Hub][david] 
 
 I've started a page dedicated to the tunnels project [here](#) and collected some of the best comments [here](#). And you can always support us by subscribing to our [beans](#). 
 
@@ -52,30 +57,32 @@ Now, a few more fun stuff.
 
 [2050]: http://myla2050.maker.good.is/projects/tunnel-art-walk
 
-## Link: [The New Disruptors Interviews Tonx Coffee][] ##
+## RADIO: [The New Disruptors Interviews Tonx Coffee][] ##
 
 LA's **Tonx Coffee** doesn't want the world. They just do one thing best: consistently ship small bags of very fresh beans *directly* to customers.
 
-[The New Disruptors Interviews Tonx Coffee]:http://www.muleradio.net/newdisruptors/3/
+[The New Disruptors Interviews Tonx Coffee]: http://www.muleradio.net/newdisruptors/3/
 
-## Link: [The Case for Drinking as Much Coffee as You Like][] ##
+## THINK: [The Case for Drinking as Much Coffee as You Like][] ##
 
 > "What I tell patients is, if you like coffee, go ahead and drink as much as you want and can," 
 
 I told you so.
 
-[The Case for Drinking as Much Coffee as You Like]:http://www.theatlantic.com/health/archive/2012/11/the-case-for-drinking-as-much-coffee-as-you-like/265693/
+[The Case for Drinking as Much Coffee as You Like]: http://www.theatlantic.com/health/archive/2012/11/the-case-for-drinking-as-much-coffee-as-you-like/265693/
 
-## Guest Post: [Dropbox dot Markdown](#)
+## Sponsor: [Dan's simple web service](pspegg.com)
 
-or how to stop worrying about system failures.
+**Dan Liu** has a list of websites he *really* wants to make for a simple subscription fee. 
 
-We've all tried to write stuff on the computer and even somewhere online, and at some point you get burnt by the experiences of losing what you write or some blogging site going out-of-style.
+In fact, this site here is his first one! He works hard to make the source code clean and available so that non can have proprietoryship. Give him feedback [here](#), play with the raw code [here](#)!
 
-We all learned to not treat what we write on computers and the internet seriously.
+## Guest Post: [The Dropbox Blog](#)
+
+Dan's guide to dealing with websites that build websites.
 
 [continue reading...](#)
 
-## About the Coffee Shop ##
 
-We sit at 3400 N Figuroa St. in Cypress Park, open 7-5(M-F) and 7-3(S-S).
+
+

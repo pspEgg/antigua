@@ -1,0 +1,79 @@
+doctype 5
+html(lang="en")
+	head
+		meta(charset="UTF-8")
+		meta(name="viewport", content="width=704")
+		title Beans
+		link(rel="stylesheet", href="../antigua.css")
+		script(src="https://checkout.stripe.com/v2/checkout.js")
+		script(src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.js")
+	body
+		:markdown
+			`Antigua Coffee House Presents,`
+
+			# Replenishments
+
+			+ [Home](http://pspegg.co/antigua)
+			+ [Events](http://pspegg.co/antigua/events)
+			+ [Beans](http://pspegg.co/antigua/beans)
+			+ [Tunnel](http://pspegg.co/antigua/tunnel)
+
+
+			`Insurgents,`
+
+			This is the antigua merch page.  
+			Replenish!  
+
+			## the half-sack `$11`
+
+			The standard
+
+		a(href="#",id="half-sack") Order a half-sack.
+
+		:markdown
+			## the micro-sacks `$30`
+			
+			Locals pickup only, Subscribe monthly and pick up your beans every week.
+
+		a(href="#",id="micro-sack") Order a micro-sack.
+
+
+	script
+		$('#half-sack').click(function(){
+		var token = function(res){
+		var $input = $('<input type=hidden name=stripeToken />').val(res.id);
+		$('form').append($input).submit();
+		};
+
+		StripeCheckout.open({
+			key:         'pk_test_FBQoOck8flFs1NiGg2JjmMOg',
+			amount:      1100,
+			name:        'Half-sack of beans',
+			description: '',
+			panelLabel:  'Checkout',
+			token:       token
+		});
+
+		return false;
+		});
+
+	script
+		$('#micro-sack').click(function(){
+		var token = function(res){
+		var $input = $('<input type=hidden name=stripeToken />').val(res.id);
+		$('form').append($input).submit();
+		};
+
+		StripeCheckout.open({
+			key:         'pk_test_FBQoOck8flFs1NiGg2JjmMOg',
+			address:     true,
+			amount:      3000,
+			name:        'Micro-sack subscription',
+			description: 'pick up your fresh sack every week',
+			panelLabel:  'Checkout',
+			token:       token
+		});
+
+		return false;
+		});
+
