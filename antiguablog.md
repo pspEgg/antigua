@@ -6,6 +6,7 @@
 + [Beans](http://pspegg.co/antigua/beans)
 + [Tunnel](http://pspegg.co/antigua/tunnel)
 + [Address](#address)
++ [Subscribe](http://pspegg.us4.list-manage.com/subscribe?u=35aface29c085e2404590b639&id=a0513f3f58)
 
 [home]: http://pspegg.co/antigua/index.html
 
@@ -17,7 +18,7 @@ and wrote us the sweetest comments ever.
 *They meant a lot*.
 
 Time for us to write back.  
-This weekly column is for you people.  
+This weekly column is for you people. 
 Let's kick it off with some exciting news...
 
 ## The Baker is Here ##
