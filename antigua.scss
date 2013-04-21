@@ -32,6 +32,16 @@ code {
 	text-transform:none;
 	color:rgb(150,150,150);
 }
+pre {
+	border-left:16px solid $sepia;
+	padding-left:30px;
+	line-height:.9em;
+	margin:1.8em 0;
+	code{
+	font-style:normal;
+	color:black;
+}
+}
 
 /* Title */
 h1{
