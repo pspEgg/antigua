@@ -57,7 +57,7 @@ h1{
 }
 
 /* Sepia Bar Items */
-ul:first-of-type{
+ul{
 	font-family: gill sans;
 	font-weight:bold;
 	font-size:50%;
@@ -84,7 +84,7 @@ ul:first-of-type{
 }
 
 /* intro text 2 paragraphs max */
-h1 + ul + p + p, h1 + ul + p + p + p{
+h2 + p, h2+p+p, h2+p+p+p, h1+ul+p+p,h1+ul+p+p+p{
 		font-size:80%;
 		line-height:1.5em;
 		text-align:center;
@@ -93,21 +93,37 @@ h1 + ul + p + p, h1 + ul + p + p + p{
 
 
 /* lead paragraph */
-h2 + *, h2 + pre + p, h2 + p + blockquote{
+h3 + *, h3 + pre + p, h3 + p + blockquote{
 	font-size:1.6em;
 	line-height:1.1em;
 }
 
 /* Artcles: h2 and paragraphs */
+
 h2,h3,h4,h5,h6{
 	font-size:200%;
 	font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-weight:bold;
 	letter-spacing:-0.1em;
 	line-height:0.8em;
-	margin-top:1.5em;
+	margin-top:1em;
 	margin-bottom:0.8em;
 	text-transform: uppercase;
+}
+h2{
+	text-align:center;
+	background-color:$sepia;
+	color:white;
+	padding:5px 0;
+	a,a:visited {
+		color:white;
+	}
+}
+h2:before{
+	content:"✰ ";
+}
+h2:after{
+	content:" ✰";
 }
 
 h3,h4,h5,h6{
