@@ -1,16 +1,7 @@
-`Antigua Coffee House Presents,`
-
-# [Quetzaltenango][home]
-
-+ [Events](http://pspegg.co/antigua/events)
-+ [Beans](http://pspegg.co/antigua/beans)
-+ [Tunnel](http://pspegg.co/antigua/tunnel)
-+ [Address](#address)
-+ [Subscribe](http://pspegg.us4.list-manage.com/subscribe?u=35aface29c085e2404590b639&id=a0513f3f58)
-
-[home]: http://pspegg.co/antigua/index.html
-
-`The little Cypress blog`
+---
+title: Issue One
+layout: default
+---
 
 This is Issue one!  
 [subscribe via email here](http://pspegg.us4.list-manage.com/subscribe?u=35aface29c085e2404590b639&id=a0513f3f58)  
@@ -72,7 +63,7 @@ LA's **Tonx Coffee** doesn't want the world. They just do one thing best: consis
 I told you so.
 
 [The Case for Drinking as Much Coffee as You Like]: http://www.theatlantic.com/health/archive/2012/11/the-case-for-drinking-as-much-coffee-as-you-like/265693/
-
+<!--
 ###Sponsor: [Dan’s Design Subscription](http://pspegg.com)
 
 Dan had been designing websites in his free time for his friends and his favorite restaurants.
@@ -88,7 +79,7 @@ Go to <http://pspegg.com>
 Dan explains how Markdown and Dropbox can get you started on writing for the future even without a blog.
 
 [continue reading...](http://pspegg.co/antigua/tunnel)
-
+-->
 
 
 
