@@ -16,16 +16,19 @@ title: default
     </script>
     </head>
     <body><p><code>Antigua Coffee House Presents,</code></p>
-
+<section id="content">
 <h1><a href="http://pspegg.co/antigua/index.html">Quetzaltenango</a></h1>
 
+
 <ul>
-<li>hey guys</li>
+{% for p in site.pages %}
+<li><a href="#">{{p.title}}</a></li>
+{% endfor %}
 </ul>
 
 <p><code>The little Cypress blog</code></p>
 
-<section id="content">
+
 {{content}}
 </section>
 
