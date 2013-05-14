@@ -17,14 +17,16 @@ title: default
     </head>
     <body><p><code>Antigua Coffee House Presents,</code></p>
 <section id="content">
-<h1><a href="http://pspegg.co/antigua/index.html">Quetzaltenango</a></h1>
+<h1><a href="/">Quetzaltenango</a></h1>
 
 
 <ul>
 
 {% for p in site.pages %}
-<li><a href="#">{{ p.title }}</a></li>
+<li><a href="{{ p.url }}">{{ p.title }}</a></li>
 {% endfor %}
+
+<li><a href="#address">address</a></li>
 </ul>
 
 <p><code>The little Cypress blog</code></p>
@@ -34,9 +36,9 @@ title: default
 </section>
 
 
-    <section id="address"><h2>The Coffee Shop</h2>
+    <section id="address"><h2>Coffee House</h2>
 
-<p>We sit at 3400 N Figuroa St. in Cypress Park, open 7-5(M-F) and 7-3(S-S).</p>
+<p>We sit at 3400 N Figuroa St. in Cypress Park,<br>open 7-5(M-F) and 7-3(S-S).<br>plugs? yep. wifi? yep.</p>
 
 <p><img alt="" src="antigua@2X.jpg"/></p>
 

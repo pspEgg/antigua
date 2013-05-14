@@ -1,1 +1,2 @@
 exclude: [dev]
+destination: ~/dev/antigua/
