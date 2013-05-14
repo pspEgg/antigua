@@ -1,5 +1,5 @@
 ---
-title: default
+
 ---
 
 <!DOCTYPE html>
@@ -23,7 +23,12 @@ title: default
 <ul>
 
 {% for p in site.pages %}
-<li><a href="{{ p.url }}">{{ p.title }}</a></li>
+<li>
+<a {% if p.title == page.title %} 
+id="page" 
+{% endif %}
+href="{{ p.url }}">{{ p.title }}</a>
+</li>
 {% endfor %}
 
 <li><a href="#address">address</a></li>
