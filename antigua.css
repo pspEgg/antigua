@@ -98,6 +98,9 @@ h3 + *, h3 + pre + p, h3 + p + blockquote {
   line-height: 1.1em; }
 
 /* Artcles: h2 and paragraphs */
+.content{
+font-size:100%;
+}
 h2, h3, h4, h5, h6 {
   font-size: 200%;
   font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
