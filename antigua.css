@@ -66,7 +66,7 @@ h1 {
 /* Sepia Bar Items */
 ul {
   font-family: gill sans;
-  font-weight: bold;
+  font-weight: 900;
   font-size: 0.5em;
   color: white;
   background-color: #de782d;
@@ -101,7 +101,7 @@ h3 + *, h3 + pre + p, h3 + p + blockquote {
 h2, h3, h4, h5, h6 {
   font-size: 200%;
   font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight: 800;
+  font-weight: 900;
   letter-spacing: -0.07em;
   line-height: 0.8em;
   margin-top: 1em;
