@@ -1,3 +1,4 @@
 exclude: [dev]
 include: [.htaccess]
-siteurl: "http://pspegg.github.io/antigua/"
+prose:
+	siteurl: "http://pspegg.github.io/antigua/"
