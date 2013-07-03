@@ -1,4 +1,5 @@
 exclude: [dev]
 include: [.htaccess]
 prose:
-	siteurl: "http://pspegg.github.io/antigua/"
+	siteurl: 'http://pspegg.github.io/antigua/'
+	rooturl: '_posts'
