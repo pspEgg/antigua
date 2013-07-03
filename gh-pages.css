@@ -1,0 +1,88 @@
+body {
+  font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+  font-size: 200%;
+  line-height: 1em;
+  background-color: #fff; }
+
+.wrapper {
+  width: 640px;
+  padding: 0 1em 0 1em;
+  margin: 0 auto; }
+
+p {
+  line-height: 1.45em; }
+
+a {
+  font-weight: bold;
+  color: #de782d;
+  text-decoration: none; }
+  a:hover {
+    color: #bada55; }
+
+.masthead h1 {
+  font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+  font-family: Baskerville;
+  font-weight: bold;
+  font-size: 250%;
+  text-align: center;
+  margin: 0 0 0.15em 0; }
+  .masthead h1 a, .masthead h1 a:visited {
+    color: black; }
+.masthead p {
+  font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+  font-style: italic;
+  font-size: 0.7em;
+  margin: 0.3em 0 1.4em 0;
+  text-align: left;
+  text-transform: none;
+  color: #969696; }
+.masthead .nav {
+  font-family: gill sans;
+  font-weight: bold;
+  font-size: 50%;
+  color: white;
+  background-color: #de782d;
+  width: 100%;
+  max-width: 100%;
+  list-style: none;
+  text-align: center; }
+  .masthead .nav a {
+    text-transform: uppercase;
+    display: inline;
+    margin: 0 0.3em;
+    color: white; }
+    .masthead .nav a:hover {
+      color: #bada55; }
+
+/* lead paragraph */
+.post p {
+  font-size: 1.5em;
+  margin: 0 0 1.2em 0; }
+.post p ~ p {
+  font-size: 1em; }
+.post h1 {
+  font-size: 200%;
+  font-family: Gill sans;
+  font-weight: bold;
+  letter-spacing: -0.1em;
+  line-height: 0.8em;
+  margin-top: 1em;
+  margin-bottom: 0.8em;
+  text-transform: uppercase; }
+.post strong {
+  text-transform: uppercase; }
+.post em {
+  font-style: italic; }
+
+/*blockquote*/
+blockquote {
+  margin-left: 0.4em;
+  padding-left: 0.5em;
+  border-left: 8px solid #de782d; }
+  blockquote p {
+    font-size: 1em; }
+
+/*Image*/
+img {
+  width: 100%;
+  border-bottom: 0.5em solid #de782d; }
