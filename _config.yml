@@ -1,3 +1,2 @@
 exclude: [dev]
 include: [.htaccess]
-destination: ~/dev/antigua/

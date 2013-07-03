@@ -3,15 +3,10 @@ title: journal
 layout: default
 ---
 
-<p>Hello World!<br>
-I'm a barebones Jekyll site for<br>
-Antigua Coffee House.<br>
-If you like it<br>
-consider contributing to the <a href="http://github.com/pspegg/antigua">repo</a>.<br>
-Otherwise say hello to Yancey for me!
-</p>
-
 {% for post in site.posts %}
-{{post.content}}
+	<div class="post">
+		<h1>{{post.title}}</h1>
+		{{post.content}}
+	</div>
 {% endfor %}
 
